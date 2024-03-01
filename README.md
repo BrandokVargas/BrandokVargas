@@ -1,6 +1,6 @@
-# System.out.Println("Hi, I'm Brandok"); 👋
+# System.out.Println("Hola, Soy Brandok Vargas"); 👋
 
-Student of the IX cycle of the Computer Systems Engineering career at the Universidad Privada del Norte. With programming intellect of certain languages such as Java, C#, C++, MySQL, SQL, JavaScript. My strengths are: leadership, Versatility, Curiosity and willingness to learn, teamwork. I am interested in working in the area of programming.
+Autodidacta y apasionado por resolver problemas mediante código. Debido a que carezco de experiencia profesional en el mundo laboral, he dedicado tiempo y esfuerzo a desarrollar habilidades sólidas mediante proyectos personales que demuestran mi capacidad para crear soluciones..
 
 
-- 📗 I am currently learning backend development
+- 📗 Actualmente estoy aprendiendo desarrollo backend.
