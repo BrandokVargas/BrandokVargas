@@ -1,6 +1,10 @@
 # fmt.Println("Hola, Soy Brandok Vargas 👋")
 
-Autodidacta y apasionado por resolver problemas mediante código. Debido a que carezco de experiencia profesional en el mundo laboral, he dedicado tiempo y esfuerzo a desarrollar habilidades sólidas mediante proyectos personales que demuestran mi capacidad para crear soluciones..
+Apasionado autodidacta de la programación con una ferviente dedicación a la resolución creativa de problemas 
+mediante el código. Comprometido con el aprendizaje continuo y el trabajo en equipo, he cultivado habilidades 
+sólidas a través de proyectos personales innovadores que evidencian mi capacidad para idear y ejecutar 
+soluciones efectivas. Siempre en busca de desafíos que me permitan crecer y aportar valor, estoy dispuesto a 
+contribuir con mi experiencia y entusiasmo en cualquier equipo que valore la excelencia y la innovación.
 
 
 - 📗 Actualmente estoy aprendiendo desarrollo backend.
