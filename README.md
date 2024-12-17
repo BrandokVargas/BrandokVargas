@@ -28,13 +28,17 @@
 <h3>Front-end</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-white.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" alt="javascript"/></a>
 <a href="https://img.shields.io/badge/-typescript-white?logo=typescript&logoColor=blue&style=for-the-badge" alt="typescript"/></a>
+
 <a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/-jquery-white?logo=jquery&logoColor=0769AD&style=for-the-badge" alt="jquery"/></a>
 
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/-HTML-white?logo=html5&style=for-the-badge" alt="html"/></a>
+
 <a href="https://img.shields.io/badge/-reactjs-white?logo=react&logoColor=cyan&style=for-the-badge" alt="reactjs"/></a>
+
 <a href="https://img.shields.io/badge/-nextjs-white?logo=typescript&logoColor=black&style=for-the-badge" alt="nextjs"/></a>
 
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/-tailwind css*-white?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge" alt="tailwindcss"/></a>
+
 <a href="https://www.w3.org/Style/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS-white?logo=css&logoColor=1572B6&style=for-the-badge" alt="css"/></a>
 
 <h3>Database</h3>
