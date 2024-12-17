@@ -2,9 +2,9 @@
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif" />
 
-<h2>
+<div>
 🤵 &nbsp;***About me***
-</h2>
+</div>
 
 Passionate self-taught programmer with a fervent dedication to creative problem solving through code. Committed to continuous learning and teamwork, I have cultivated solid skills through innovative personal projects that evidence my ability to devise and execute effective solutions. Always looking for challenges that allow me to grow and add value, I am willing to contribute my experience and enthusiasm to any team that values excellence and innovation.
 
