@@ -4,7 +4,7 @@
 
 
 🤵 &nbsp;***About me***
-<b> Backend Developer in golang </b>
+<p><b> Backend Developer in golang </b></p>
 <p>Passionate self-taught programmer with a fervent dedication to creative problem solving through code. Committed to continuous learning and teamwork, I have cultivated solid skills through innovative personal projects that evidence my ability to devise and execute effective solutions. Always looking for challenges that allow me to grow and add value, I am willing to contribute my experience and enthusiasm to any team that values excellence and innovation.</p>
 
 <div align="center">
@@ -15,8 +15,6 @@
   <a href="mailto:brandok.contact@gmail.com"><img src="https://img.shields.io/badge/-brandok.contact@gmail.com-white?logo=thunderbird&style=flat-square" alt="twitter"/></a>
   <br/><br/>
 </div>
-
----
 
 <div align="center">
 <h2>Knowledge Base :hammer_and_wrench:</h2>
