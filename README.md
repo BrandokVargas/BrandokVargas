@@ -10,7 +10,7 @@
 <div>
   <h3>Contact Me :handshake:</h3>
   <a href="https://www.github.com/BrandokVargas" target="_blank"><img src="https://img.shields.io/badge/-BrandokVargas-black?logo=github&style=flat-square" alt="github"></a>
-  <a href="https://www.linkedin.com/in/BrandokVargas" target="_blank"><img src="https://img.shields.io/badge/-BrandokVargas-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
+  <a href="https://www.linkedin.com/in/brandok-vargas-rios-51aa4a249/" target="_blank"><img src="https://img.shields.io/badge/-BrandokVargas-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
   <a href="https://www.instagram.com/brandokkkkkk" target="_blank"><img src="https://img.shields.io/badge/-BrandokVargas-pink?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
   <a href="mailto:brandok.contact@gmail.com"><img src="https://img.shields.io/badge/-brandok.contact@gmail.com-white?logo=thunderbird&style=flat-square" alt="twitter"/></a>
   <br/><br/>
@@ -27,6 +27,9 @@
 
 <h3>Front-end</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-white.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" alt="javascript"/></a>
+<a href="https://img.shields.io/badge/-typescript-white?logo=typescript&logoColor=blue&style=for-the-badge" alt="typescript"/></a>
+<a href="https://img.shields.io/badge/-reactjs-white?logo=react&logoColor=cyan&style=for-the-badge" alt="reactjs"/></a>
+<a href="https://img.shields.io/badge/-nextjs-white?logo=nextdotjs&logoColor=black&style=for-the-badge" alt="nextjs"/></a>
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/-tailwind css*-white?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge" alt="tailwindcss"/></a>
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/-HTML-white?logo=html5&style=for-the-badge" alt="html"/></a>
 <a href="https://www.w3.org/Style/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS-white?logo=css&logoColor=1572B6&style=for-the-badge" alt="css"/></a>
@@ -37,7 +40,6 @@
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/-postgresql-white?logo=postgresql&logoColor=4169E1&style=for-the-badge" alt="postgresql"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-mysql-white?logo=mysql&logoColor=4479A1&style=for-the-badge" alt="mysql"/></a>
 <a href="https://mariadb.org/" target="_blank"><img src="https://img.shields.io/badge/-mongodb-white?logo=mongodb&logoColor=green&style=for-the-badge" alt=" mongodb"/></a>
-<a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/-redis*-white?logo=redis&logoColor=DC382D&style=for-the-badge" alt="redis"/></a>
 
 <h3>Version Control & CI/CD</h3>
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-git-white?logo=git&logoColor=F05032&style=for-the-badge" alt="git"/></a>
