@@ -7,7 +7,7 @@
 <p><b> Backend Developer in golang </b></p>
 <p>Passionate self-taught programmer with a fervent dedication to creative problem solving through code. Committed to continuous learning and teamwork, I have cultivated solid skills through innovative personal projects that evidence my ability to devise and execute effective solutions. Always looking for challenges that allow me to grow and add value, I am willing to contribute my experience and enthusiasm to any team that values excellence and innovation.</p>
 
-<div align="center">
+<div>
   <h3>Contact Me :handshake:</h3>
   <a href="https://www.github.com/BrandokVargas" target="_blank"><img src="https://img.shields.io/badge/-BrandokVargas-black?logo=github&style=flat-square" alt="github"></a>
   <a href="https://www.linkedin.com/in/BrandokVargas" target="_blank"><img src="https://img.shields.io/badge/-BrandokVargas-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
@@ -16,7 +16,7 @@
   <br/><br/>
 </div>
 
-<div align="center">
+<div>
 <h2>Knowledge Base :hammer_and_wrench:</h2>
 
 <h3>Back-end</h3>
