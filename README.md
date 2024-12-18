@@ -27,6 +27,7 @@
 
 <h3>Front-end</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-white.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" alt="javascript"/></a>
+
 <a href="https://img.shields.io/badge/-typescript-white?logo=typescript&logoColor=blue&style=for-the-badge" alt="typescript"/></a>
 
 <a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/-jquery-white?logo=jquery&logoColor=0769AD&style=for-the-badge" alt="jquery"/></a>
