@@ -9,8 +9,7 @@
 
 <div>
   <h3>Contact Me :handshake:</h3>
-  <a href="https://www.github.com/BrandokVargas" target="_blank"><img src="https://img.shields.io/badge/-BrandokVargas-black?logo=github&style=flat-square" alt="github"></a>
-  <a href="https://www.linkedin.com/in/BrandokVargas" target="_blank"><img src="https://img.shields.io/badge/-BrandokVargas-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
+  <a href="https://www.linkedin.com/in/BrandokVargas" target="_blank"><img src="https://img.shields.io/badge/-BrandokVargas-white?logo=linkedin&style=flat-square" alt="linkedin"></a>
   <a href="https://www.instagram.com/brandokkkkkk" target="_blank"><img src="https://img.shields.io/badge/-BrandokVargas-pink?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
   <a href="mailto:brandok.contact@gmail.com"><img src="https://img.shields.io/badge/-brandok.contact@gmail.com-white?logo=thunderbird&style=flat-square" alt="twitter"/></a>
   <br/><br/>
