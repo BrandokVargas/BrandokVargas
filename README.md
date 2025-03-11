@@ -9,7 +9,7 @@
 
 <div>
   <h3>Contact Me :handshake:</h3>
-  <a href="https://www.linkedin.com/in/BrandokVargas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brandok-vargas-rios-51aa4a249" alt="In/BrandokVargas"></a>
+  <a href="https://www.linkedin.com/in/BrandokVargas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=In/BrandokVargas&logoColor=white&link=https://www.linkedin.com/in/brandok-vargas-rios-51aa4a249" alt="In/BrandokVargas"></a>
   <a href="https://www.instagram.com/brandokkkkkk" target="_blank"><img src="https://img.shields.io/badge/-BrandokVargas-purple?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
   <a href="mailto:brandok.contact@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-brandok.contact@gmail.com-white?logo=gmail&style=flat-square" alt="twitter"/></a>
   <br/><br/>
