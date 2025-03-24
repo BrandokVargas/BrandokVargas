@@ -51,8 +51,5 @@
 <a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/-github_actions*-white?logo=githubactions&logoColor=2088FF&style=for-the-badge" alt="githubactions"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/-docker-white?logo=docker&logoColor=2496ED&style=for-the-badge" alt="docker"/></a>
 
-<h3>Cloud & Hosting</h3>
-<a href="https://www.nginx.com/" target="_blank"><img src="https://img.shields.io/badge/-nginx-white?logo=nginx&logoColor=009639&style=for-the-badge" alt="nginx"/></a>
-</div>
 
 ---
